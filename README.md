@@ -1,9 +1,9 @@
 # transdutoriot
 
 Repositorio teste para código do Transdutor de Nível IoT utilizando ESP32 com comunicação MQTT.
-Desenvolvido para IEEE Student Branch UFPR por: Leonardo Kulaitis Penteado Sypniewski
-                                                ...
-                                                ...
+Desenvolvido para IEEE Student Branch UFPR por: Leonardo Kulaitis Penteado Sypniewski;
+                                                Leonardo Gonçalves;
+                                                Marcelo;
 
 DAR COMMIT&SYNC APENAS QUANDO ESTIVER OK PARA SALVAR NA NUVEM
 
